@@ -1,6 +1,6 @@
 # 0x00 Your Module Name
 
-Describle you module:
+Describle your module:
 - Input :
 - Output :
 - Features :
